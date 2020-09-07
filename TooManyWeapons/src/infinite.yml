@@ -1,0 +1,37 @@
+Torch:
+  Name: "&l&6Infinite Torch"
+  Lore:
+    - "&l&6- Place Infite Torches And Light Up The World!"
+  Model: 123456
+
+Rocket:
+  Name: "&l&6Infinite Firework Rocket"
+  Lore:
+    - "&l&6- Zoom through the sky without stopping!"
+    
+Water:
+  Name: "&l&6Infinite Water Bucket"
+  Lore:
+    - "&l&6- Water water everywhere, every drop to drink!"
+  Model: 123456  
+   
+Dry:
+  Name: "&l&6Infinite Dry Bucket"
+  Lore:
+    - "&l&6- Water water no where, no drops to drink!"
+  Model: 123456
+  
+Manna:
+  Name: "&l&6Manna"
+  Lore:
+    - "&l&6- Be the one to feed em all!"
+  Model: 123456
+  
+Arrows:
+  Type:
+    - POISON
+    - REGEN
+  Name: "&l&6Arrow of %type%"
+  Lore:
+    - "&l&6- Kill them all with magical arrows!"
+  Model: 123456

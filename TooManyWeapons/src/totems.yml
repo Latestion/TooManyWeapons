@@ -1,0 +1,38 @@
+Belt:
+  Material: TNT
+  Displayname: "&6Totem Belt"
+  Lore:
+    - "&l&cTotem Belt"
+  Model: 123456
+
+Time:
+  Displayname: "&6Totem Of Time"
+  Model: 123456
+  Lore:
+    - "&l&cAbilities:"
+    - "&8Astral Cycling: Right click to change time of day."
+    - "&8Time Freeze: Shift+left click to freeze time in X radius around you for Y amount of time."
+  Astral-Cooldown: 10 # In secs
+  Freeze-Cooldown: 10 # In Secs
+  Freeze-Duration: 10 # In Secs
+  Freeze-Radius: 10 # In radius
+  Astral-Bossbar-Color: RED
+  Freeze-Bossbar-Color: BLUE
+  Astral-Bossbar-Text: "&6Astral Cooldown"
+  Freeze-Bossbar-Text: "&6Freeze Cooldown"
+
+Storms:
+  Displayname: "&6Totem Of Storms"
+  Model: 123456
+  Lore:
+    - "&l&cAbilities:"
+    - "&8Right click to cycle weather between rain, thunder and clear."
+    - "&8Lightning Strike: Left click to strike lightning where you’re looking."
+  Weather-Change-Cooldown: 10 # In secs
+  Lightning-Strike-Cooldown: 10 # In secs
+  Weather-Change-Duration: 10 # In Secs
+  Lightning-Strike-Max-Distance: 10 # In Blocks
+  Weather-Bossbar-Color: RED
+  Strike-Bossbar-Color: BLUE
+  Weather-Bossbar-Text: "&6Weather Change Cooldown"
+  Strike-Bossbar-Text: "&6Lightning Strike Cooldown"

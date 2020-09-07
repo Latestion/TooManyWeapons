@@ -1,0 +1,8 @@
+main: me.Latestion.CustomWeapons.Main
+name: TooManyWeapons
+author: Latestion
+api-version: 1.13
+version: 1.0
+
+commands:
+  TMW:

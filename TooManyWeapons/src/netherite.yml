@@ -1,0 +1,31 @@
+Thorn:
+  Material: NETHERITE_SWORD
+  Model: 123456
+    
+Bow:
+  Material: BOW
+  Model: 123456
+
+Wand:
+  Material: STICK
+  Model: 123456
+  Range: 10 # Range for flame thrower
+  Fireball-Cooldown: 1 # In seconds
+  FireBall-Damage: 2 # hearts
+  FireBall-Radius: 2 # in blocks
+  Flame-Amount: 10 # Gives them 10 shots of flame
+  Flame-ReCharge-Rate: 1 # In Seconds
+  Flame-Damage: 2 # Does 2 hearts of damage per second!
+  Flame-Damage-Radius: 2 # Damages the player in two blocks of radius of the flamethrower
+  Set-On-Fire: true # Sets the entity/player on fire
+  Fire-Duration: 1 # Sets the player/entity on fire for the specified time (in seconds). only works if Flame-ReCharge-Rate is true
+   
+Axe:
+  Material: NETHERITE_AXE
+  Model: 123456
+    
+Scythe:
+  Material: NETHERITE_HOE
+  Model: 123456
+  Range: 3 # Blocks and in radius
+  Damage: 2 # Hearts
